@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$baseTexture "models/weapons/v_models/snip_awp/red_dot_d"
+$bumpmap  "models/weapons/v_models/snip_awp/red_dot_n"
+$normalmapalphaenvmapmask "1"
+$phong "1"
+$phongboost "3"
+$phongfresnelranges "[.2 .4 .5]"
+$phongexponent "60"
+$phongalbedotint "1"
+$envmaptint "[0.1 0.1 0.1]"
+$nocull "1"
+$halflambert "1"
+
+}
