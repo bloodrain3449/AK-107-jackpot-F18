@@ -10,6 +10,6 @@
 
 ![image](https://user-images.githubusercontent.com/66871022/164896053-ae760eff-b1ca-4704-8994-adf39b70d631.png)
 
-HypeR BeasT Discord Adresimiz = https://discord.gg/sxwsmbFd5m
+**HypeR BeasT Discord Adresimiz = https://discord.gg/sxwsmbFd5m**
 
-CSGO-Turkiye Discord Adresimiz = https://discord.gg/zfKTDrJHar
+**CSGO-Turkiye Discord Adresimiz = https://discord.gg/zfKTDrJHar**
